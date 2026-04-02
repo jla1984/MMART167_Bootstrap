@@ -1,0 +1,103 @@
+.logo {
+       width: 300px;
+       height: auto;
+}
+
+.hero-bg {
+       background-image: url("../BlankCoverPhoto.png");
+       background-size: 100% 100%;
+       background-repeat: no-repeat;
+       background-position: center;
+}
+
+h1 {
+       color: #FAF3E9;
+}
+
+.navbar-toggler {
+       border-color: #FAF3E9;
+       background-color: #FAF3E9;
+       margin: 0 auto;
+}
+
+.nav-btn {
+       font-size: 28px;
+       color: #FAF3E9;
+       border-color: #FAF3E9;
+       border: 7px solid;
+       border-style: outset;
+}
+
+body {
+       background-color: #FAF3E9;
+}
+
+.custom-navbar {
+       background-image: url("../BlankCoverPhoto.png");
+       background-size: 100% 100%;
+       background-repeat: no-repeat;
+       background-position: center;
+}
+
+.footer-custom {
+       background-image: url("../BlankCoverPhoto.png");
+       background-size: 100% 100%;
+       background-repeat: no-repeat;
+       background-position: center;
+       color: #FAF3E9;
+}
+
+.content {
+       text-align: center;
+}
+
+.content video {
+       display: block;
+       margin: 0 auto;
+}
+
+.nav-btn:hover {
+       color: #3DA8C8;
+       border-color: #3DA8C8;
+       border-style: inset;
+       text-shadow: 0 0 5px #e8fc03;
+}
+
+.nav-item {
+       padding: 10px 10px;
+}
+
+.flex {
+       display: flex;
+       justify-content: center;
+}
+
+img {
+       width: 250px;
+}
+
+.socials {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       gap: 20px;
+}
+
+.socials a {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+}
+
+.github-button {
+       display: flex;
+       align-items: center;
+}
+
+.li {
+       width: auto;
+       height: 40px;
+       display: block;
+       position: relative;
+       bottom: 2px;
+}
